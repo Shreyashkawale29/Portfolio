@@ -308,7 +308,7 @@ export const projects = [
     description:
       "A sleek and user-friendly application developed with React for seamless movie ticket bookings. Users can browse current movie listings, view detailed information, select showtimes, and reserve seats with ease. The application features a dynamic UI, real-time seat availability, secure payment integration, and responsive design to ensure a smooth booking experience across all devices.",
     image:
-      "./movie.png",
+      "./Movie.png",
     tags: [
       "Html",
       "Css",
