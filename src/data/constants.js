@@ -469,7 +469,66 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 8,
+    title: "Cafe Management System",
+    date: "May 2024 - Jun 2024",
+    description:
+      "The Cafe Management System is an Angular-based web application designed to streamline and automate the operations of a café. This system leverages a fake API to simulate real-world data interactions, providing a robust and scalable solution for managing various aspects of a café business, including orders, inventory, staff, and customer relationships.",
+    image:
+      "./Cafe.png",
+    tags: [
+      "Html",
+      "Css",
+      "JavaScript",
+      "Angualr",
+      "Node Js",
+      "Postman Tool"
+      
+    ],
+    category: "web app",
+    github: "https://github.com/Shreyashkawale29/Cafe-Management-System",
+    webapp: "https://mycafemanager.vercel.app/",
+    member: [
+      {
+        name: "Shreyash Kawale",
+        img: "./HeroImage.png",
+        linkedin: "https://www.linkedin.com/in/shreyash-kawale-131345219/",
+        github: "https://github.com/Shreyashkawale29",
+      },
+    ],
+  },
+  {
+    id: 9,
+    title: "Customer Management System",
+    date: "Jun 2024 - Jul 2024",
+    description:
+      "The Customer Management System is built using Spring Boot for the backend and Angular for the frontend, enabling full CRUD operations. The backend uses Spring Boot to create RESTful APIs, integrated with a database via Spring Data JPA for storing and retrieving customer data, along with validation and security features. The Angular frontend provides a responsive UI, consuming these APIs for managing customer data, with functionalities to add, view, update, and delete customers, as well as search and filter customer information. This project ensures efficient and scalable customer data management with a user-friendly interface.",
+    image:
+      "./crud.png",
+    tags: [
+      "Html",
+      "Css",
+      "JavaScript",
+      "Angualr",
+      "Node Js",
+      "Postman Tool"
+      
+    ],
+    category: "web app",
+    github: "https://github.com/Shreyashkawale29/Crud_springboot",
+    webapp: "https://github.com/Shreyashkawale29/Crud_Angular",
+    member: [
+      {
+        name: "Shreyash Kawale",
+        img: "./HeroImage.png",
+        linkedin: "https://www.linkedin.com/in/shreyash-kawale-131345219/",
+        github: "https://github.com/Shreyashkawale29",
+      },
+    ],
+  },
 ];
+
 
 export const TimeLineData = [
   { year: 2017, text: "Started my journey" },
