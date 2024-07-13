@@ -120,8 +120,6 @@ const ContactButton = styled.input`
   font-weight: 600;
 `
 
-
-
 const Contact = () => {
 
   //hooks
@@ -135,11 +133,10 @@ const Contact = () => {
         setOpen(true);
         form.current.reset();
       }, (error) => {
-        console.log(error.text);
+        console.error("Failed to send email:", error);
+        alert("Failed to send email. Please try again later.");
       });
   }
-
-
 
   return (
     <Container>
@@ -157,7 +154,7 @@ const Contact = () => {
         <Snackbar
           open={open}
           autoHideDuration={6000}
-          onClose={()=>setOpen(false)}
+          onClose={() => setOpen(false)}
           message="Email sent successfully!"
           severity="success"
         />
@@ -166,4 +163,4 @@ const Contact = () => {
   )
 }
 
-export default Contact
+export default Contact;
