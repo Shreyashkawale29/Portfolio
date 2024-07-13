@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Shreyashkawale29/",
   resume:
-    "https://drive.google.com/file/d/1fEi1cx8aJOrXaQLqAp5c-ElkOLQLTlkL/view",
+    "https://drive.google.com/file/d/1zWU8Mc6Xbtc6SEo8PfsShGjn9yVDd0oL/view",
   linkedin: "https://www.linkedin.com/in/shreyash-kawale-131345219/",
   twitter: "#",
   insta: "#",
