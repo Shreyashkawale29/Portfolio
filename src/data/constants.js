@@ -527,6 +527,36 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 10,
+    title: "Employee Management System",
+    date: "Jun 2024 - Jul 2024",
+    description:
+      "The Employee Management System is built using Angular for the frontend, enabling full CRUD operations. The Json-server uses to create RESTful APIs, along with validation and security features. The Angular frontend provides a responsive UI, consuming these APIs for managing employee data, with functionalities to add, view, update, and delete Employee, as well as search and filter Employee information. This project ensures efficient and scalable customer data management with a user-friendly interface.",
+    image:
+      "./employee.png",
+    tags: [
+      "Html",
+      "Css",
+      "JavaScript",
+      "Angualr",
+      "Node Js",
+      "Postman Tool",
+      "Json Server"
+      
+    ],
+    category: "web app",
+    github: "https://github.com/Shreyashkawale29/Employee-Crud",
+    webapp: "https://employeein.vercel.app/",
+    member: [
+      {
+        name: "Shreyash Kawale",
+        img: "./HeroImage.png",
+        linkedin: "https://www.linkedin.com/in/shreyash-kawale-131345219/",
+        github: "https://github.com/Shreyashkawale29",
+      },
+    ],
+  },
 ];
 
 
