@@ -169,7 +169,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1B_uj78NdxivwZQ26aHjmX2nIpmP6w8AEoQ&s",
-    role: "Fullstack Engineering Intern",
+    role: "Fullstack Developer Intern",
     company: "Devtown Pvt. Ltd.",
     date: "Feb 2023 - July 2023",
     desc: "A Fullstack Engineering Intern assists in both front-end and back-end development tasks, contributing to the creation and maintenance of web applications. This role involves collaborating with experienced developers, learning and applying coding best practices, and gaining hands-on experience in various programming languages and frameworks.",
