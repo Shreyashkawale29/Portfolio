@@ -1,8 +1,8 @@
 export const Bio = {
   name: "Shreyash Kawale",
   roles: [
-    "Full Stack Java Developer",
-    "Android Developer",
+    "Java Full Stack Developer",
+    "Web Developer",
     "UI/UX Designer",
     "Programmer",
   ],
