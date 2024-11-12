@@ -468,18 +468,19 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Cafe Management System",
+    title: "Cafe Vista",
     date: "May 2024 - Jun 2024",
     description:
-      "The Cafe Management System is an Angular-based web application designed to streamline and automate the operations of a café. This system leverages a fake API to simulate real-world data interactions, providing a robust and scalable solution for managing various aspects of a café business, including orders, inventory, staff, and customer relationships.",
+      "The Cafe Vista is an Angular-based web application designed to streamline and automate the operations of a café. This system leverages a fake API to simulate real-world data interactions, providing a robust and scalable solution for managing various aspects of a café business, including orders, inventory, staff, and customer relationships.",
     image:
-      "./Cafe.png",
+      "./cafe.png",
     tags: [
       "Html",
       "Css",
       "JavaScript",
       "Angualr",
       "Node Js",
+      "SpringBoot",
       "Postman Tool"
       
     ],
