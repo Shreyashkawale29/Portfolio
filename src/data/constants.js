@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Shreyashkawale29/",
   resume:
-    "https://drive.google.com/file/d/1y_oSjESxWAeIyLWFfefdGmbjSeXK7hsv/view?usp=sharing",
+    "https://drive.google.com/file/d/13IRG0HYXi1ed6PwOumA1Aq0jd8v8Tg_A/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shreyash-kawale-131345219/",
   twitter: "#",
   insta: "#",
@@ -27,7 +27,7 @@ export const skills = [
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
       {
-        name: "Angular Js",
+        name: "Angular",
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3A0p-O3UNqtCJJNW8_F6lHNnw_Wrs8V3cgT-18iqxg&s",
       },
